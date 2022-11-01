@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+ int length;
+ int width;
+ int area;
+ length=9;
+ width=8;
+ area=length*width
+ cout<<"The area is";
+ cout<<area
+ return 0;
+ }
